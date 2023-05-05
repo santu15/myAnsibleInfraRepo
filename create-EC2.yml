@@ -8,7 +8,7 @@
    vars:
      keypair: ansible
      instance_type: t2.micro
-     image: ami-0ee23bfc74a881de5
+     image: ami-09039b8be88a3be42
      wait: yes
      group: webserver
      count: 1
